@@ -5,11 +5,11 @@ This project aims to help people quickly find helpers for different jobs and for
 
 ![Alt](scheme/main.svg)
 
-### - Links to service project
+### - links to project services
 - task-api-service [GitHub Pages](https://github.com/3dartix/need-help-task-api-service).
 - ext-ui-service [GitHub Pages](https://github.com/3dartix/need-help-ext-ui).
 
-### - Technologies used in the project
+### - technologies used in the project
 - java:`11`
 - spring:`boot`,`webflux`,`security`,`data`,`cloud`
 - swagger:`openAPI`
